@@ -1,8 +1,8 @@
 ### Hello World! 👀
 
-Hey! I'm Swathi. I'm pursuing my master's in data science at the University of Sheffield. I'm currently focused on strengthening my fundamentals in Python, SQL and R and will be moving on to implementing projects in Machine Learning where most of my interest lies in. I aim to start from the very basics and learn by building and implementing real life applications!
+Hey there, I'm Swathi!  Master's student by day, coding wizard by night 🌙. Currently, I'm diving deep into the world of data science at the University of Sheffield. I'm all about strengthening my Python, SQL, and R skills while also exploring my passion in gaming through code.
 
-Feel free to reach out to me on my LinkedIn: https://www.linkedin.com/in/swathi-1998/
+Let's connect on LinkedIn: https://www.linkedin.com/in/swathi-1998/
 
-This github is my journey to becoming a data scientist from the very beginning, so welcome to my journey ✨
+Join me on this wild journey from data to games and everything in between. I'm starting from scratch and building my way up, so expect some fun and maybe a few bugs along the way! 😄 ✨
 
